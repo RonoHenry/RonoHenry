@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr chemosi" target="blank"><img src="https://img.shields.io/twitter/follow/mr chemosi?logo=twitter&style=for-the-badge" alt="mr chemosi" /></a> </p>
 
-- 🔭 I’m currently collaborating on a project [Resteaurant recommendation system](https://github.com/AtomHarris/Restaurant-Recommendation-System)
+- 🔭 I’m currently collaborating on a project [SmarTEEngine](https://github.com/AtomHarris/SmarTEEngine)
 
 - 🌱 I’m currently learning **- Deep Learning with TensorFlow and PyTorch - Advanced Python for Data Science - Docker and Kubernetes for containerization -- Real-time Data Processing with Apache Kafka - Implementing Reinforcement Learning algorithms**
 
