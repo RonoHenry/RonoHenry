@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rono Henry</h1>
+<h1 align="center">Hi 👋, I'm Rono</h1>
 <h3 align="center">From designing stunning interiors with Archicad and SketchUp to coding my first Hello, World!, my journey has been nothing short of an adventure. As a passionate Machine Learning Engineer with a background in Interior Design and IT, I've transitioned from crafting spaces to crafting algorithms. Along the way, I’ve battled Git conflicts, tamed virtual environments, and mastered machine learning models, all while keeping a designer’s eye for detail. Now, I blend creativity and data science to turn complex problems into elegant solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronohenry&label=Profile%20views&color=0e75b6&style=flat" alt="ronohenry" /> </p>
