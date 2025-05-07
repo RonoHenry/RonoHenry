@@ -1,15 +1,15 @@
 # 👋 Hey, I'm Henry Rono
-I'm a **Machine Learning Engineer** passionate about transforming education with AI. I'm building **STUDAC**, an AI-powered EdTech SaaS that revolutionizes Kenyan high schools through dynamic timetables, automated test grading, and personalized tutoring. With a unique blend of Interior Design and ICT trading experience, I combine creativity, data science, and technical precision to craft impactful solutions.
+I'm a **Machine Learning Engineer** passionate about building AI-driven solutions for real-world impact. I specialize in Python, LLMs, and Kaggle datasets, creating tools like **STUDAC**, an AI-powered EdTech SaaS for Kenyan schools. With a background in Interior Design, I blend creativity and technical precision to solve complex problems.
 
-🔭 **Current Project**: [STUDAC](https://github.com/RonoHenry/STUDAC) - Leveraging Kaggle datasets and LLMs (Gemini, Mistral) to streamline education.  
+🔭 **Current Project**: [STUDAC](https://github.com/RonoHenry/STUDAC) - AI-driven timetables, test grading, and tutoring for schools.  
 🌱 **Learning**: Deep Learning (TensorFlow, PyTorch), Reinforcement Learning, Docker, AWS.  
 💻 **Portfolio**: [ronohenry.com](#) (coming soon) | [LinkedIn](https://linkedin.com/in/rono-henry-6a9a21244)  
 📫 **Contact**: henrykipkiui24@gmail.com  
 
 ## 🚀 Featured Project: STUDAC
-- **Mission**: Empower Kenyan schools with AI-driven tools for timetabling, test generation, and tutoring.  
-- **Tech Stack**: Python, Pandas, scikit-learn, Gemini API, Flask, Cloudflare.  
-- **Achievements**: Preprocessed Kaggle dataset (3975 rows), achieved 0.69 model accuracy with SMOTE, integrated Mistral via Ollama.  
+- **Mission**: Transform Kenyan education with AI-powered tools.  
+- **Tech**: Python, Pandas, scikit-learn, Gemini API, Flask.  
+- **Achievements**: Preprocessed Kaggle dataset (3975 rows), 0.69 SMOTE model accuracy.  
 - [Explore STUDAC](https://github.com/RonoHenry/STUDAC)
 
 ## 🛠️ Skills
@@ -20,4 +20,4 @@ I'm a **Machine Learning Engineer** passionate about transforming education with
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/RonoHenry)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/mr_chemosi)
 
-Check out my repositories for AI/ML projects and innovative solutions!
+Check out my repositories for AI/ML and EdTech innovations!
