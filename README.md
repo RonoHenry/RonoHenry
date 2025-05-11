@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Rono
 
-I'm a **Machine Learning Engineer** passionate about building AI-first solutions that tackle real-world challenges through automation, analytics, and generative intelligence. I leverage Python, LLMs, Kaggle datasets, and production-ready tools like Flask, TensorFlow, and Supabase to deliver scalable systems. My creative background in Interior Design empowers me to approach AI development with both structure and innovation.
-
+I'm a **AI/Machine Learning Developer** passionate about building AI-first solutions that tackle real-world challenges through automation, analytics, and generative intelligence. I leverage Python, LLMs, and production-ready tools like Flask, TensorFlow, and Supabase to deliver scalable systems. Grounded in creativity, I approach AI development with both methodical structure and forward-thinking ideas
 ---
 
 ## 🚀 Currently Leading: [STUDAC](https://github.com/RonoHenry/STUDAC)
