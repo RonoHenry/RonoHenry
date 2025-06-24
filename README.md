@@ -1,7 +1,7 @@
-👋 Hey, I'm Rono
+##👋 **Hey, I'm Rono**
 I'm a AI/Machine Learning Developer passionate about building AI-first solutions that tackle real-world challenges through automation, analytics, and generative intelligence. I leverage Python, LLMs, and production-ready tools like Flask, TensorFlow, and Supabase to deliver scalable systems. Grounded in creativity, I approach AI development with both methodical structure and forward-thinking ideas.
 
-🚀 Currently Leading: DesignSynapse
+🚀 Currently Leading: ## DesignSynapse
 <img alt="AI Sticker" src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&amp;logo=OpenAI">
 <img alt="React Sticker" src="https://img.shields.io/badge/React-UI-blue?style=for-the-badge&amp;logo=react">
 <img alt="Tailwind Sticker" src="https://img.shields.io/badge/TailwindCSS-Styled-38bdf8?style=for-the-badge&amp;logo=tailwindcss">
