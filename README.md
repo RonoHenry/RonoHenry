@@ -1,6 +1,11 @@
+Summarized conversation historyHere’s an updated version of your GitHub profile README that highlights both your STUDAC project and the new DesignSynapse project, with a polished, professional structure and clear links for visitors:
+
+---
+
 # 👋 Hey, I'm Rono
 
-I'm a **AI/Machine Learning Developer** passionate about building AI-first solutions that tackle real-world challenges through automation, analytics, and generative intelligence. I leverage Python, LLMs, and production-ready tools like Flask, TensorFlow, and Supabase to deliver scalable systems. Grounded in creativity, I approach AI development with both methodical structure and forward-thinking ideas
+I'm a **AI/Machine Learning Developer** passionate about building AI-first solutions that tackle real-world challenges through automation, analytics, and generative intelligence. I leverage Python, LLMs, and production-ready tools like Flask, TensorFlow, and Supabase to deliver scalable systems. Grounded in creativity, I approach AI development with both methodical structure and forward-thinking ideas.
+
 ---
 
 ## 🚀 Currently Leading: [STUDAC](https://github.com/RonoHenry/STUDAC)
@@ -18,9 +23,11 @@ Built with:
 
 ---
 
-## 🛠️ Key Project
+## 🛠️ Key Projects
 
 - **[STUDAC](https://github.com/RonoHenry/STUDAC)** – AI-first education platform optimizing school systems through automation and machine learning.
+- **[DesignSynapse](https://github.com/yourusername/DesignSynapse)** – AI-driven platform for the DAEC industry, featuring conversational project scoping, automated design briefs, and a modern React + Tailwind UI.  
+  <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=OpenAI" height="20"/> <img src="https://img.shields.io/badge/React-UI-blue?style=for-the-badge&logo=react" height="20"/> <img src="https://img.shields.io/badge/TailwindCSS-Styled-38bdf8?style=for-the-badge&logo=tailwindcss" height="20"/> <img src="https://img.shields.io/badge/Production-Ready-brightgreen?style=for-the-badge&logo=rocket" height="20"/>
 
 ---
 
@@ -86,3 +93,7 @@ From designing physical spaces to building AI systems, I’ve always pursued mea
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/+254710915812)
 
 > Explore my repos to see how AI can empower education, analytics, and creativity.
+
+---
+
+This version adds your new DesignSynapse project as a featured key project, with badges and a short description, while keeping your profile focused and professional. You can copy and use this directly in your GitHub profile README. Let me know if you want further customization!
