@@ -9,7 +9,6 @@ I'm a **AI/Machine Learning Developer** passionate about building AI-first solut
 ![AI Sticker](https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=OpenAI)
 ![React Sticker](https://img.shields.io/badge/React-UI-blue?style=for-the-badge&logo=react)
 ![Tailwind Sticker](https://img.shields.io/badge/TailwindCSS-Styled-38bdf8?style=for-the-badge&logo=tailwindcss)
-![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen?style=for-the-badge&logo=rocket)
 
 **DesignSynapse** is a full-stack, AI-driven platform for the DAEC (Design, Architecture, Engineering, Construction) industry.  
 It features:
