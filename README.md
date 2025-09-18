@@ -98,12 +98,5 @@ I'm an **AI/Machine Learning Developer** specializing in algorithmic trading, qu
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonoHenry&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonoHenry&layout=compact&theme=dark)
-
----
 
 > "Building robust systems that make a difference, one line of code at a time."
