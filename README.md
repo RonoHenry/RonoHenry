@@ -25,7 +25,6 @@ I'm an **AI/Machine Learning Developer** specializing in algorithmic trading, qu
 ## 🛠️ Key Projects
 
 - **[AgentI.C.Trader159](https://github.com/RonoHenry/AgentICTrader)** – Advanced algorithmic trading platform with high-performance data pipeline and comprehensive testing
-- **[STUDAC](https://github.com/RonoHenry/STUDAC)** – AI-powered EdTech SaaS for academic operations and automated grading
 - **[DesignSynapse](https://github.com/yourusername/DesignSynapse)** – AI-driven platform for the Design and Architecture industry
 
 ---
