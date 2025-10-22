@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rono
 
-I'm an **AI/Machine Learning Developer** specializing in algorithmic trading, quantitative analysis, and AI-driven solutions. I leverage Python, Machine Learning, and high-performance tools like InfluxDB and Django to build robust, production-grade systems. My approach combines data-driven decision making with scalable architecture design.
+I'm an **AI/Machine Learning Developer** specializing in  AI-driven solutions. I leverage Python, Machine Learning, and high-performance tools like InfluxDB and Django to build robust, production-grade systems. My approach combines data-driven decision making with scalable architecture design.
 
 ---
 
